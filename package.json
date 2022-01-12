@@ -1,0 +1,23 @@
+{
+  "name": "movie_api",
+  "version": "1.0.0",
+  "description": "npm -v",
+  "main": "npm search",
+  "scripts": {
+    "test": "package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshakp3/movie_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arshakp3/movie_api/issues"
+  },
+  "homepage": "https://github.com/arshakp3/movie_api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
