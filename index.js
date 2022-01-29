@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 let topMovies = [
   {
     title: "The Matrix",
-    genre: "Action",
+    genre: "Thriller",
     director: "The Wachowskis"
   },
   {
@@ -30,13 +30,13 @@ let topMovies = [
   },
   {
     title: "Snowden",
-    genre: "Action",
+    genre: "Thriller",
     director: "Oliver Stone"
   },
   {
-    title: "Die Hard 4.0",
+    title: "Catch Me If You Can",
     genre: "Action",
-    director: "Len Wiseman"
+    director: "Steven Spielberg"
   },
   {
     title: "Tron",
